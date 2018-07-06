@@ -1,0 +1,8 @@
+c:\users\antoine.azzopardi\documents\visual studio 2017\Projects\BonusLib\BonusLib\bin\Release\netcoreapp2.0\BonusLib.deps.json
+c:\users\antoine.azzopardi\documents\visual studio 2017\Projects\BonusLib\BonusLib\bin\Release\netcoreapp2.0\BonusLib.dll
+c:\users\antoine.azzopardi\documents\visual studio 2017\Projects\BonusLib\BonusLib\bin\Release\netcoreapp2.0\BonusLib.pdb
+c:\users\antoine.azzopardi\documents\visual studio 2017\Projects\BonusLib\BonusLib\obj\Release\netcoreapp2.0\BonusLib.csproj.CoreCompileInputs.cache
+c:\users\antoine.azzopardi\documents\visual studio 2017\Projects\BonusLib\BonusLib\obj\Release\netcoreapp2.0\BonusLib.AssemblyInfoInputs.cache
+c:\users\antoine.azzopardi\documents\visual studio 2017\Projects\BonusLib\BonusLib\obj\Release\netcoreapp2.0\BonusLib.AssemblyInfo.cs
+c:\users\antoine.azzopardi\documents\visual studio 2017\Projects\BonusLib\BonusLib\obj\Release\netcoreapp2.0\BonusLib.dll
+c:\users\antoine.azzopardi\documents\visual studio 2017\Projects\BonusLib\BonusLib\obj\Release\netcoreapp2.0\BonusLib.pdb
